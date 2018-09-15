@@ -8,3 +8,5 @@ Following tools and languages have been used while creating this software:
 ->CMD(for compiling)
 ->JAVA SWING, AWT(for designing GUI)
 ->JAVA
+
+Demo Video: https://youtu.be/BHfmKqBadnY
